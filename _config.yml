@@ -1,5 +1,5 @@
-title: Document Analysis Semester Project
-description: This repository is a GitHub Pages template for Document Analysis course projects. 
+title: Political Discourse Analysis on Reddit
+description: This repository contains materials related to my study of Sentiment, Topic Distribution, and Discourse Vocabulary Across Political Communities
 show_downloads: True
 plugins:
   - jekyll-relative-links
