@@ -149,12 +149,14 @@ Eight distinct topics were identified through NMF modeling:
     ![image.png](figures/image%204.png)
     
 
-*These do not indicate any causality.*
+
 
 - **Sentiment vs Keyword Density**
     - No significant correlation
     
     ![image.png](figures/image%205.png)
+
+*These do not indicate any causality.*
     
 
 ![image.png](figures/image%206.png)
@@ -171,7 +173,7 @@ The identification of eight distinct topics demonstrates the span of political d
 
 ### 4.3 Discourse Quality Variations
 
-**Center** and **Law** and **Crime** categories demonstrate highest discourse vocabulary metrics, with longer content and higher keyword density. This suggests these discussions typically require more nuanced analysis (centrist positions, legal matters) and may naturally employ more sophisticated discourse patterns. Interestingly, while discussions in election related subreddits have the highest sentiment (more positive in tone), they rank lowest in use of evidence-based vocabulary. Moreover, the lack of a significant correlation between keyword density and sentiment indicates that criticizing remarks on Reddit do not use more evidence-based vocabulary.
+**Center** and **Law** and **Crime** categories demonstrate highest discourse vocabulary metrics, with longer content and higher keyword density. This suggests these discussions typically require more nuanced analysis (centrist positions, legal matters) and may naturally employ more sophisticated discourse patterns. Interestingly, while discussions in election related subreddits have a very high sentiment score (more positive in tone), they rank lowest in use of evidence-based vocabulary. Moreover, the lack of a significant correlation between keyword density and sentiment indicates that criticizing remarks on Reddit do not use more evidence-based vocabulary.
 
 ## 5. Limitations
 
@@ -196,4 +198,4 @@ Key findings:
 This study revealed how political affiliation influences communication patterns in online environments, providing important considerations for research into the quality of civic discourse and ideological polarization phenomena. We also release the resulted dataset with added dimensions for other researchers to build on.
 
 
-**This report is still in development!**
+**This report is still under development!**
