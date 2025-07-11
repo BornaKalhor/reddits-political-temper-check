@@ -194,3 +194,6 @@ Key findings:
 4. **Positive correlations** between content length, keyword usage, and sentiment
 
 This study revealed how political affiliation influences communication patterns in online environments, providing important considerations for research into the quality of civic discourse and ideological polarization phenomena. We also release the resulted dataset with added dimensions for other researchers to build on.
+
+
+**This report is still in development!**
