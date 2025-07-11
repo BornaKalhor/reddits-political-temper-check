@@ -17,7 +17,7 @@ Specifically, we aimed to:
 
 ### 2.1 Dataset
 
-The analysis used the **corpus-webis-tldr-17.json** dataset. However, due to hardware constraints, only the first 300,000 were studied, which included Reddit comments across various subreddits. Filtering by the list of political subreddits, we came to the final dataset of 8,781 comments from politically oriented discussions.
+The analysis used the **corpus-webis-tldr-17.json** dataset. However, due to hardware constraints, only the first 300,000 were studied, which included Reddit comments across various subreddits. Filtering by the [list of political subreddits](https://github.com/valentinhofmann/politosphere/blob/main/data/subreddits.txt), we came to the final dataset of 8,781 comments from politically oriented discussions.
 
 ### 2.2 Data Preprocessing
 
