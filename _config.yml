@@ -1,5 +1,5 @@
-title: Political Discourse Analysis on Reddit
-description: This repository contains materials related to my study of Sentiment, Topic Distribution, and Discourse Vocabulary Across Political Communities
+title: Reddit’s Political Temper Check
+description: A study of Sentiment, Topic Distribution, and Use of Discourse Vocabulary Across Political Communities
 show_downloads: True
 plugins:
   - jekyll-relative-links
